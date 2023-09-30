@@ -1,2 +1,1 @@
-console.log('Hello Node, Hello Git')
-console.log('holaaa')
+console.log('Hello Node, Hello Git');   
